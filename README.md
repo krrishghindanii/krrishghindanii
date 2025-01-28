@@ -1,4 +1,4 @@
-# 🌻 Hey there! This is Krrish 👋 Nice to meet you!
+# Hey there! This is Krrish. Nice to meet you! 👋
 
 **💻 I am a Web Developer, Researcher, and a Tennis Player**
 
