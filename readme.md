@@ -2,9 +2,9 @@
 
 **💻 I am a Data Analyst, Web Developer, Researcher, and a Tennis Player**
 
-I'm a freshman at the University of San Francisco, majoring in Data Science with a strong interest in Economics and Quantitative Research. I build data-driven solutions and web applications from the ground up — from system design and development to deploying real-world problem-solving tools.
+I'm a freshman at the University of San Francisco, majoring in Data Science and minoring in Economics with a strong interest in Quantitative Finance. I build data-driven solutions and web applications from scratch — from system design and development to deploying real-world problem-solving tools.
 
-On GitHub, you’ll find a portfolio of my work across data science projects, algorithmic research, and full-stack web development. I am passionate about leveraging statistics, machine learning, and quantitative methods to create insights and impact.
+On GitHub, you can find a portfolio of my work, including data science projects, algorithmic research, and complete web development projects. I am passionate about leveraging statistics, machine learning, and quantitative methods to create insights and impact.
 
 When I’m not coding or analyzing data, you’ll find me competing on the tennis court!!
 
