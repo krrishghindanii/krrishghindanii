@@ -1,6 +1,6 @@
 # Hey there! This is Krrish. Nice to meet you! 👋
 
-**💻 I am a Data Analyst, Web Developer, Researcher, and a Tennis Player**
+**I am a Data Analyst, Web Developer, Researcher, and a Tennis Player**
 
 I'm a freshman at the University of San Francisco, majoring in Data Science and minoring in Economics with a strong interest in Quantitative Finance. I build data-driven solutions and web applications from scratch — from system design and development to deploying real-world problem-solving tools.
 
@@ -8,14 +8,14 @@ On GitHub, you can find a portfolio of my work, including data science projects,
 
 When I’m not coding or analyzing data, you’ll find me competing on the tennis court!!
 
-## 🔧 Skills & Interests
+## Skills & Interests
 
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js
 - **Data Science**: Python, R, SQL, Artificial Intelligence, Machine Learning, Deep Learning, Neural Network
 - **Research**: Data Analysis, Statistical Modeling, Mathematics
 - **Tennis**: Competitive player
 
-## 🌟 Projects
+## Projects
 
 - [Project 1](https://github.com/krrishghindanii/sarima-timeseries.git): This project develops a SARIMA-based forecasting system to predict Shanghai's air quality indicators (PM2.5, NO₂, O₃, and others), combining historical data analysis with seasonal modeling to generate 90-day pollution forecasts. The pipeline processes real-world environmental data, visualizes trends, and produces actionable predictions to support air quality management decisions in urban areas.
 
@@ -23,7 +23,7 @@ When I’m not coding or analyzing data, you’ll find me competing on the tenni
 
 - [Project 3](https://www.forbes-research.com/): Our research company is dedicated to providing high school students with limited opportunities with the tools and resources they need to succeed in writing research papers. We understand that writing research papers can be a daunting task for many students, especially those who may not have access to the same educational resources as their more privileged peers.
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
